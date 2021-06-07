@@ -1,2 +1,2 @@
-# TodoList-react-
+# TodoList-react
 ___react + redux___
